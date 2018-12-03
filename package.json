@@ -1,0 +1,29 @@
+{
+  "name": "shorturl",
+  "version": "0.0.1",
+  "description": "Apis and Microservices Projects - URL Shortener Microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.14",
+    "cors": "^2.8.5",
+    "body-parser": "^1.18.3"
+  },
+  "engines": {
+    "node": "10.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hyperdev.com/#!/project/welcome-project"
+  },
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express"
+  ],
+  "license": "MIT"
+}
